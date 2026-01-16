@@ -11,7 +11,7 @@ permalink: /legacy/
   </header>
   <p>
     The Centro+ incubator builds on the work of the ESA Space Solutions Portugal programme, which delivered ESA-backed
-    incubation at IPN between 2018 and 2025. This legacy page preserves the verified milestones, recorded successes, and alumni
+    incubation at IPN between 2014 and 2025. This legacy page preserves the verified milestones, recorded successes, and alumni
     testimonials from that era so new teams can understand the continuity of support.
   </p>
   <section aria-labelledby="achievements-title">

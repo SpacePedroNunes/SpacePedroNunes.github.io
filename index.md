@@ -132,7 +132,7 @@ permalink: /
   </p>
   <ol>
     <li>
-      Prepare your application outlining the space connection, market, and team. Use ESA’s template available <a href="https://esa.int/esa-bic/esa-bic-centroplus" target="_blank" rel="noopener">here</a>.
+      Prepare your application dossier outlining the space connection, market, and team. Use ESA’s template available <a href="https://esa.int/esa-bic/esa-bic-centroplus" target="_blank" rel="noopener">here</a>.
     </li>
     <li>
       Submit the dossier through the ESA BIC portal so the ESA central team can match the request with the Centro+ focus areas.
@@ -184,10 +184,10 @@ permalink: /
     If your prototype can deliver ESA-grade reliability and you are committed to building in Coimbra, contact the team for the next intake.
   </p>
   <div class="definition-list">
-    <dt>Contact</dt>
+    <dt>Download application dossier</dt>
+    <dd><a href="https://esa.int/esa-bic/esa-bic-centroplus" target="_blank" rel="noopener">ESA BIC template</a></dd>
+    <dt>Email to Centro+</dt>
     <dd><a href="mailto:space@ipn.pt">space@ipn.pt</a></dd>
-    <dt>Office</dt>
-    <dd>Instituto Pedro Nunes, Rua Pedro Nunes 3030-199 Coimbra, Portugal</dd>
     <dt>More information</dt>
     <dd>Use the ESA BIC portal to learn more: <a href="https://commercialisation.esa.int/esa-business-incubation-centres/" target="_blank" rel="noopener">ESA BIC network</a>.</dd>
   </div>
