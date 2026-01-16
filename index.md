@@ -143,12 +143,12 @@ permalink: /
       </tr>
       <tr>
         <td>Technical review</td>
-        <td>Weeks 2-3</td>
-        <td>IPN mentors and ESA engineers validate the prototype.</td>
+        <td>Week 4</td>
+        <td>Applicants pitch their idea and the Technical Evaluation Board (TEB) reviews the application.</td>
       </tr>
       <tr>
         <td>Selection decision</td>
-        <td>Week 4</td>
+        <td>Week 6</td>
         <td>Teams receive clear feedback and next milestone list.</td>
       </tr>
     </tbody>
