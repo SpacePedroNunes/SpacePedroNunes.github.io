@@ -68,16 +68,16 @@ permalink: /
   </header>
   <div class="support-grid">
     <div>
-      <h3>European Space Agency</h3>
-      <p>ESA defines the quality framework, funds the incubation, and introduces startups to a continental network of programme managers.</p>
-    </div>
-    <div>
       <h3>Instituto Pedro Nunes</h3>
       <p>IPN hosts the centre, delivers operational management, and connects teams to local labs, prototyping suites, and investors.</p>
     </div>
     <div>
       <h3>National Delegation</h3>
       <p>PT Space and ANACOM align national policy, ensure regulatory clarity, and signal Portuguese commitment to the ESA roadmap.</p>
+    </div>
+    <div>
+      <h3>European Space Agency</h3>
+      <p>ESA defines the quality framework, funds the incubation, and introduces startups to a continental network of programme managers.</p>
     </div>
   </div>
 </section>
