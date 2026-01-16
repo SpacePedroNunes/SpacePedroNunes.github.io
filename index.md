@@ -181,13 +181,13 @@ permalink: /
     <h2 id="apply-title">Ready to join Centro+</h2>
   </header>
   <p>
-    If your prototype can deliver ESA-grade reliability and you are committed to building in Coimbra, contact the team for the next intake.
+    If you are committed to building you space startup at ESA BIC Centro+, contact the team for the next intake.
   </p>
   <div class="definition-list">
-    <dt>Download application dossier</dt>
-    <dd><a href="https://esa.int/esa-bic/esa-bic-centroplus" target="_blank" rel="noopener">ESA BIC template</a></dd>
     <dt>Email to Centro+</dt>
     <dd><a href="mailto:space@ipn.pt">space@ipn.pt</a></dd>
+    <dt>Download application dossier</dt>
+    <dd><a href="https://esa.int/esa-bic/esa-bic-centroplus" target="_blank" rel="noopener">ESA BIC template</a></dd>
     <dt>More information</dt>
     <dd>Use the ESA BIC portal to learn more: <a href="https://commercialisation.esa.int/esa-business-incubation-centres/" target="_blank" rel="noopener">ESA BIC network</a>.</dd>
   </div>
