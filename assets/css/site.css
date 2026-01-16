@@ -259,11 +259,11 @@ footer.site-footer {
   border-top: 1px solid #e5e5df;
   padding-top: 1rem;
   font-size: 0.9rem;
-  color: #4c4c4c;
+  color: #d1dff1;
 }
 
 footer.site-footer a {
-  color: #0f4c81;
+  color: #d1dff1;
 }
 
 @media (max-width: 600px) {
