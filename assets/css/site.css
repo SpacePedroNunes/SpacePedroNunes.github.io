@@ -1,6 +1,7 @@
 :root {
-  color: #0b1f2b;
-  background: #f7f6f2;
+  --text: #ffffff;
+  --panel-text: #0b1f2b;
+  background: #070f1a;
   font-family: "Inter", "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
   line-height: 1.8;
   font-size: 18px;
@@ -12,12 +13,6 @@
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-  background: var(--bg, #f7f6f2);
-  color: var(--text, #0b1f2b);
-}
-
 .page-shell {
   min-height: 100vh;
   display: flex;
@@ -26,6 +21,29 @@ body {
   padding: 2rem 1.5rem 3rem;
   max-width: 960px;
   margin: 0 auto;
+}
+
+body {
+  margin: 0;
+  background: #070f1a;
+  color: #ffffff;
+}
+
+.site-shell {
+  background: transparent;
+}
+
+.site-header {
+  color: #ffffff;
+}
+
+.site-header h1,
+.site-header .lead {
+  color: inherit;
+}
+
+.site-header .site-nav a {
+  color: #ffffff;
 }
 
 .site-header {
@@ -46,7 +64,7 @@ body {
 .site-header .lead {
   margin: 0;
   max-width: 32rem;
-  color: #1a2e3f;
+  color: #d1dff1;
 }
 
 .eyebrow {
@@ -92,6 +110,7 @@ main {
   border-radius: 16px;
   border: 1px solid #e1e1db;
   box-shadow: 0 10px 30px rgba(18, 28, 38, 0.05);
+  color: var(--panel-text);
 }
 
 .hero h2 {
@@ -140,6 +159,7 @@ main {
   border-radius: 16px;
   border: 1px solid #e1e1db;
   box-shadow: 0 10px 30px rgba(18, 28, 38, 0.04);
+  color: var(--panel-text);
 }
 
 .panel header h2 {
