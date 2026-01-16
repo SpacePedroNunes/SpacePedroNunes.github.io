@@ -7,10 +7,10 @@ permalink: /
 <section class="hero" aria-labelledby="hero-title">
   <p class="eyebrow">Instituto Pedro Nunes · Coimbra</p>
   <h2 id="hero-title">
-    ESA BIC Centro+ connects European missions to pragmatic Portuguese innovation so founders can build dependable space-enabled products.
+    ESA BIC Centro+ supports Portuguese innovation and founders can build dependable space-enabled products.
   </h2>
   <p>
-    We marshal ESA funding, technical and business mentors, and access to industrial facilities so teams can move from validation to
+    We manage ESA funding, technical and business mentors, and access to industrial facilities so teams can move from validation to
     operational readiness without losing sight of commercial traction.
   </p>
   <div class="hero-actions">
@@ -31,11 +31,11 @@ permalink: /
   <div class="stat-grid">
     <div>
       <h3>Funding and runway</h3>
-      <p>Up to €50 k non-equity ESA grant, plus access to follow-on pilots with industrial partners.</p>
+      <p>Up to €60 k non-equity ESA seed funding, plus access to follow-on pilots with industrial partners.</p>
     </div>
     <div>
       <h3>Technical bridges</h3>
-      <p>Space-grade labs, testing facilities, and ESA engineers at Instituto Pedro Nunes keep R&amp;D practical.</p>
+      <p>Space-grade labs and testing facilities at Instituto Pedro Nunes keep R&amp;D practical.</p>
     </div>
     <div>
       <h3>Market intelligence</h3>
@@ -56,6 +56,7 @@ permalink: /
   <ul>
     <li>One stable cohort rhythm ensures every team receives equal attention and transparent evaluation.</li>
     <li>Portuguese and European regulators, as well as corporate partners, convene here so validation paths stay short.</li>
+    <li>Coimbra universities, innovation hubs, and industry keep domain expertise in sensors, robotics, telecoms, and life sciences close at hand.</li>
     <li>The programme merges ESA heritage with the IPN innovation engine, so teams benefit from both networks.</li>
   </ul>
 </section>
@@ -75,8 +76,8 @@ permalink: /
       <p>IPN hosts the centre, delivers operational management, and connects teams to local labs, prototyping suites, and investors.</p>
     </div>
     <div>
-      <h3>Regional partners</h3>
-      <p>Coimbra universities, innovation hubs, and industry bring domain expertise in sensors, robotics, telecoms, and life sciences.</p>
+      <h3>National Delegation</h3>
+      <p>PT Space and ANACOM align national policy, ensure regulatory clarity, and signal Portuguese commitment to the ESA roadmap.</p>
     </div>
   </div>
 </section>
@@ -103,7 +104,7 @@ permalink: /
 <section id="how" class="panel" aria-labelledby="how-title">
   <header>
     <p class="eyebrow">How</p>
-    <h2 id="how-title">How the programme unfolds</h2>
+    <h2 id="how-title">How the programme works</h2>
   </header>
   <p>
     Applications run twice a year. Each cohort receives structured technical coaching, market-building workshops, and ESA-grade due diligence.
@@ -164,7 +165,7 @@ permalink: /
   </p>
   <div class="definition-list">
     <dt>Contact</dt>
-    <dd><a href="mailto:bic-centro@ipn.pt">bic-centro@ipn.pt</a></dd>
+    <dd><a href="mailto:space@ipn.pt">space@ipn.pt</a></dd>
     <dt>Office</dt>
     <dd>Instituto Pedro Nunes, Rua Pedro Nunes 3030-199 Coimbra, Portugal</dd>
     <dt>Documentation</dt>
