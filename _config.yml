@@ -4,7 +4,7 @@ description: >
   with ESA funding, technical mentorship, and a network of industrial partners.
 baseurl: ""
 url: https://spacepedronunes.github.io
-email: bic-centro@ipn.pt
+email: space@ipn.pt
 theme: minima
 lang: en
 permalink: pretty
