@@ -101,6 +101,26 @@ permalink: /
   </dl>
 </section>
 
+<section id="legacy" class="panel" aria-labelledby="legacy-title">
+  <header>
+    <p class="eyebrow">Legacy</p>
+    <h2 id="legacy-title">ESA Space Solutions Portugal heritage</h2>
+  </header>
+  <p>
+    Before Centro+ the ESA Space Solutions Portugal incubator at IPN shaped dozens of teams that tested space technologies
+    in orbit and on Earth. The legacy page shares the programme’s milestones, case studies, and alumni references so you can
+    see how our continuity continues to deliver validated innovation.
+  </p>
+  <ul>
+    <li>Series of cohort summaries showing funding rounds, prototyping outcomes, and follow-on partnerships.</li>
+    <li>Regional collaborations that provided sensors, robotics, and telecommunication expertise to ESA teams.</li>
+    <li>Curated alumni list that proves long-term growth both inside and outside the space sector.</li>
+  </ul>
+  <p>
+    <a class="btn ghost" href="/legacy/">Explore the full ESA Space Solutions Portugal legacy document</a>
+  </p>
+</section>
+
 <section id="how" class="panel" aria-labelledby="how-title">
   <header>
     <p class="eyebrow">How</p>
@@ -112,7 +132,7 @@ permalink: /
   </p>
   <ol>
     <li>
-      Draft a short dossier outlining the technology, market, and team. Use ESA’s template and keep the story factual.
+      Prepare your application outlining the space connection, market, and team. Use ESA’s template available <a href="https://esa.int/esa-bic/esa-bic-centroplus" target="_blank" rel="noopener">here</a>.
     </li>
     <li>
       Submit the dossier through the ESA BIC portal so the ESA central team can match the request with the Centro+ focus areas.
@@ -168,8 +188,8 @@ permalink: /
     <dd><a href="mailto:space@ipn.pt">space@ipn.pt</a></dd>
     <dt>Office</dt>
     <dd>Instituto Pedro Nunes, Rua Pedro Nunes 3030-199 Coimbra, Portugal</dd>
-    <dt>Documentation</dt>
-    <dd>Use the ESA BIC portal to submit a dossier: <a href="https://commercialisation.esa.int/esa-business-incubation-centres/" target="_blank" rel="noopener">ESA BIC network</a>.</dd>
+    <dt>More information</dt>
+    <dd>Use the ESA BIC portal to learn more: <a href="https://commercialisation.esa.int/esa-business-incubation-centres/" target="_blank" rel="noopener">ESA BIC network</a>.</dd>
   </div>
   <div class="hero-actions">
     <a class="btn primary" href="#how">Review the steps</a>

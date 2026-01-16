@@ -11,3 +11,5 @@ main:
     url: "#how"
   - title: "Apply"
     url: "#apply"
+  - title: "Legacy"
+    url: "/legacy/"
